@@ -20,7 +20,7 @@ loop do
  #loops loop prints out phrase 7 time_select
 end
   loop_iterator (7)
-  
+
 def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
 phrase = "Welcome to Flatiron School's Web Development Course!"
@@ -39,7 +39,7 @@ while_iterator(7)
 end
   # code your solution here using the "while" keyword
   # hint: user a counter to tell the while loop when to stop!
-  
+
 
 end
 
